@@ -12,3 +12,5 @@ ZCZC W00 15 L06 Reading slides
 ZCZC W00 20 L05 Quiz simulation and SEB testing
 ZCZC W00 80 L05 Preparing for quiz
 ZCZC W00 35 L05 Total quiz session (including zoom)
+ZCZC W01 100 L02 OS Class Meeting
+ZCZC W01 180 L09 Setting up VirtualBox and Debian (took a long time because of debian archive error)
