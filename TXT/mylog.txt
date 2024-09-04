@@ -12,3 +12,7 @@ ZCZC W00 15 L06 Reading slides
 ZCZC W00 20 L05 Quiz simulation and SEB testing
 ZCZC W00 80 L05 Preparing for quiz
 ZCZC W00 35 L05 Total quiz session (including zoom)
+ZCZC W01 200 L02 OS Class Meeting
+ZCZC W01 240 L09 Finish setting up Debian related stuff
+ZCZC W01 30 L04 Added links to index.md and links.md
+ZCZC W01 5 L09 Editing mylog.txt and myupdate.txt
