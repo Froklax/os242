@@ -16,3 +16,6 @@ ZCZC W01 200 L02 OS Class Meeting
 ZCZC W01 240 L09 Finish setting up Debian related stuff
 ZCZC W01 30 L04 Added links to index.md and links.md
 ZCZC W01 5 L09 Editing mylog.txt and myupdate.txt
+ZCZC W01 40 L05 Studying for quiz
+ZCZC W01 35 L05 Total quiz session (including zoom)
+ZCZC W01 10 L01 SCELE related
