@@ -26,3 +26,6 @@ ZCZC W02 20 L04 Added links to links.md
 ZCZC W02 30 L05 Studying for quiz
 ZCZC W02 15 L01 SCELE related
 ZCZC W02 10 L09 Editing mylog.txt and myupdate.txt
+ZCZC W02 30 L05 Total Quiz Session (Including zoom)
+ZCZC W02 60 L09 Finished All POPQUIZ
+
