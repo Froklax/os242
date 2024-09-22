@@ -18,5 +18,12 @@ Tutorial for regular expressions. Helps in learning concepts of regular expressi
 * [Creating and Managing a GPG Key Pair](https://youtu.be/1vVIpIvboSg?si=1YwZmDy2T4MicRj6) ---
 Tutorial on how to create and manage a GPG Key Pair. Helpful for explaining what some of the outputs from the WEEK02 assignment mean.
 
+* [How to write a bash script](https://youtu.be/F-gskSl4pwQ?si=u-Xfk2M9EF47qgQL) ---
+Tutorial for bash script. On Mac or Linux, how to make a script/pipeline on the command-line in bash. 
+
+* [50+ Linux Commands You Must Know](https://www.digitalocean.com/community/tutorials/linux-commands) ---
+Information about more than 50 linux commands. Very helpful in understanding what some of the commands given in the assignments do.
+
+
 <br>
 <hr>
