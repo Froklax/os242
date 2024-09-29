@@ -35,3 +35,11 @@ ZCZC W03 30 L04 Added links to links.md
 ZCZC W03 360 L70 Do LK Alin & PBP
 ZCZC W03 60 L09 Finished All POPQUIZ
 ZCZC W03 15 L09 Editing mylog.txt, myupdate.txt, and myrank.txt
+ZCZC W04 200 L02 OS Class Meeting
+ZCZC W04 20 L01 SCELE related
+ZCZC W04 120 L09 Finished W03 assignments
+ZCZC W04 20 L04 Added links to links.md
+ZCZC W04 480 L70 Do PBP and TP SDA
+ZCZC W04 80 L05 Total Quiz Session (Including zoom and studying)
+ZCZC W04 60 L09 Finished All POPQUIZ
+ZCZC W04 15 L09 Editing mylog.txt, myupdate.txt, and myrank.txt

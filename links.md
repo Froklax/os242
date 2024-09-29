@@ -24,6 +24,14 @@ Tutorial for bash script. On Mac or Linux, how to make a script/pipeline on the 
 * [50+ Linux Commands You Must Know](https://www.digitalocean.com/community/tutorials/linux-commands) ---
 Information about more than 50 linux commands. Very helpful in understanding what some of the commands given in the assignments do.
 
+* [How to Securely Copy Files in Linux | scp Command](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/) ---
+Information about the scp command in Linux. How to securely copy files in linux and copy file from local directory to virtual Linux.
+
+* [VI Editor - Linux Tutorial](https://youtu.be/pU2k776i2Zw?si=CjYLr1Tjucs2UQAA) ---
+Tutorial about how to use the vi editor in Linux. Teaches about the different actions that can be done with various keystrokes.
+
+* [SSH Command - Usage, Options, Configuration](https://www.ssh.com/academy/ssh/command) ---
+Information about the SSH command in Linux. Very helpful in understanding what the SSH command does and gives further information about the different uses of the SSH command.
 
 <br>
 <hr>
