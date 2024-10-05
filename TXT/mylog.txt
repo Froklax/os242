@@ -43,3 +43,11 @@ ZCZC W04 480 L70 Do PBP and TP SDA
 ZCZC W04 80 L05 Total Quiz Session (Including zoom and studying)
 ZCZC W04 60 L09 Finished All POPQUIZ
 ZCZC W04 15 L09 Editing mylog.txt, myupdate.txt, and myrank.txt
+ZCZC W05 190 L02 OS Class Meeting and Replacement Video
+ZCZC W05 180 L09 Finished W03 assignments
+ZCZC W05 30 L04 Added links to links.md
+ZCZC W05 80 L05 Total Quiz Session (Including zoom and studying)
+ZCZC W05 120 L09 Finished All POPQUIZ
+ZCZC W05 20 L01 SCELE related
+ZCZC W05 15 L09 Editing mylog.txt, myupdate.txt, and myrank.txt
+ZCZC W05 240 L70 Study for ALIN Quiz

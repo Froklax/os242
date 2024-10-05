@@ -33,5 +33,14 @@ Tutorial about how to use the vi editor in Linux. Teaches about the different ac
 * [SSH Command - Usage, Options, Configuration](https://www.ssh.com/academy/ssh/command) ---
 Information about the SSH command in Linux. Very helpful in understanding what the SSH command does and gives further information about the different uses of the SSH command.
 
+* [Verify a File Using an ASC Signature File](https://www.baeldung.com/linux/verify-file-asc-signature) ---
+Information about how to verify file using ASC signature file. This taught me how to use the gpg command to encrypt file.
+
+* [How to Rename Files in Linux](https://phoenixnap.com/kb/rename-file-linux) ---
+Information about how to rename a file in Linux. Taught me that the mv command is not only to move files, but can also be used to rename files.
+
+* [The Linux Programming Interface](https://man7.org/tlpi/) ---
+Information about The Linux Programming Interface or TLPI for short. It offers many resources to learn about the topic. 
+
 <br>
 <hr>
