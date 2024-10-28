@@ -42,5 +42,11 @@ Information about how to rename a file in Linux. Taught me that the mv command i
 * [The Linux Programming Interface](https://man7.org/tlpi/) ---
 Information about The Linux Programming Interface or TLPI for short. It offers many resources to learn about the topic. 
 
+* [mmap Explanation](https://man7.org/linux/man-pages/man2/mmap.2.html) ---
+Explanation about what mmap does and how it works. Useful for answering question in POPQUIZ W06.
+
+* [malloc Explanation](https://man7.org/linux/man-pages/man3/malloc.3.html) ---
+Explanation about what malloc does and how it works. Useful for answering question in POPQUIZ W06.
+
 <br>
 <hr>
