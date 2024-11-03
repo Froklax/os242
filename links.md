@@ -48,5 +48,8 @@ Explanation about what mmap does and how it works. Useful for answering question
 * [malloc Explanation](https://man7.org/linux/man-pages/man3/malloc.3.html) ---
 Explanation about what malloc does and how it works. Useful for answering question in POPQUIZ W06.
 
+* [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet) ---
+Cheat Sheet for bash commands. Extremely useful for knowing what the various commands do and how to use them.
+
 <br>
 <hr>
