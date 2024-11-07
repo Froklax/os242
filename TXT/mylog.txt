@@ -69,3 +69,11 @@ ZCZC W07 60 L05 Studying for quiz
 ZCZC W07 20 L01 SCELE related
 ZCZC W07 15 L09 Editing mylog.txt, myupdate.txt, and myrank.txt
 ZCZC W07 300 L70 Studying ALIN
+ZCZC W08 200 L02 OS Class Meeting
+ZCZC W08 240 L09 Finished W06 assignments
+ZCZC W08 30 L04 Added links to links.md
+ZCZC W08 180 L09 Finished All POPQUIZ
+ZCZC W08 60 L05 Studying for quiz
+ZCZC W08 20 L01 SCELE related
+ZCZC W08 15 L09 Editing mylog.txt, myupdate.txt, and myrank.txt
+ZCZC W08 300 L70 DO TP SDA

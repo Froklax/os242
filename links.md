@@ -51,5 +51,11 @@ Explanation about what malloc does and how it works. Useful for answering questi
 * [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet) ---
 Cheat Sheet for bash commands. Extremely useful for knowing what the various commands do and how to use them.
 
+* [LFS](https://www.youtube.com/watch?v=QlzoegSuIzg) ---
+Linux from scratch, like its name, linux from scratch.
+
+* [LFS Video Guide](https://www.youtube.com/playlist?list=PLyc5xVO2uDsCQChvKRDhF-cvsguDfd-y2) ---
+Kernotex's Playlist of Linux From Scratch. Lifesaver for doing Linux From Scratch, helps in knowing where to use the various commands listed.
+
 <br>
 <hr>
